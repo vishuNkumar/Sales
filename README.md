@@ -1,6 +1,6 @@
 # Sales_Insights
 
-My first GitHub repository using SQL and Power BI of a fictional company AtliQ Hardware.
+My first GitHub Repository using SQL and Power BI of a fictional company AtliQ Hardware.
 
 ## ***Sales Insights***
 ![AtliQ Hardware](https://github.com/vishuNkumar/vishu/assets/166616316/ff70764c-6323-4899-a920-a8be78448065)
